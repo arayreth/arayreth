@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on betterShield and Moshup
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning discord js
 - 📫 How to reach me: contactrayreth@gmail.com
 - 😄 Pronouns: ...
