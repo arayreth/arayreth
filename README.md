@@ -8,9 +8,7 @@
 <a href="https://code.visualstudio.com/<src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code"></a>&nbsp;&nbsp;
 
 <p align='center'>
-  <a href="https://www.youtube.com/rayreth"><img height="24" src="https://github.com/arayreth/arayreth/blob/main/logo_youtube.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/rayrethyt"><img height="24" src="https://github.com/arayreth/arayreth/blob/main/logo_twitter.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/rayreth_hd/"><img height="24" src="https://github.com/arayreth/arayreth/blob/main/logo_instagram_48_Plan%20de%20travail%201%20copie.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/><src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"</a>&nbsp;&nbsp;
 </p>
 
 learning mongodb and python
