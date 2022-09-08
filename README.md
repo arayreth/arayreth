@@ -3,12 +3,9 @@
 <p align="left">
 Actualy :
 </p>
-  📚 I currently learning:
-    - Python
-    - MongoDB
-  🚧 I currently working on:
-    - A discord bot for my project
-  📬 How to Reach Me ?
+- 📚 I currently learning: Python and MongoDB
+- 🚧 I currently working on: A discord bot for my project
+- 📬 How to Reach Me ?
 - Discord: Rayreth#1584
 - Mail: contactrayreth@gmail.com
 <h3 align="left">📈 Top Languages: </h3>
