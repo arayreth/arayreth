@@ -1,5 +1,5 @@
 <!--Introducing-->
-###Hey 👋, I'm [Rayreth](https://github.com/arayreth)
+### Hey 👋, I'm [Rayreth](https://github.com/arayreth)
 <!--Animated Text-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=E7F748&center=true&width=435&lines=Developper+javascript;Orange+juice+addict;Discord+power+user)](https://git.io/typing-svg)
 <!--Actualy-->
