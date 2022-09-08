@@ -18,11 +18,9 @@ Actualy :
 <a href="www.mysql.com" > <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" target="_blank" rel="noreferrer" alt="My SQL" width="40" height="40"/>
 <a href="https://code.visualstudio.com/" > <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" target="_blank" rel="noreferrer" alt="Visual Studio Code" width="40" height="40"/>
 <a href="https://www.apachefriends.org/index.html" > <img src="https://github.com/cm3z4/xampp.desktop/blob/master/xampp.png" target="_blank" rel="noreferrer" alt="XAMPP" width="40" height="40"/>
-<p align="left">
 📬How to Reach Me ?
 - Discord: Rayreth#1584
 - Mail: contactrayreth@gmail.com
-</p>
 <div align="center">
 ### Thanks you for reading ❤️ !
 </div>
