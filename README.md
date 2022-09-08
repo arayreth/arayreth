@@ -11,10 +11,10 @@ I currently working on:
  - A discord bot for my project
 <!--Top Languages-->
 <h3 align="left">📈 Top Languages: </h3>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arayreth&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arayreth&theme=dracula)
 <!--Gitub Stats-->
 <h3 align="left">📊 Github Stats: </h3>
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=arayreth&show_icons=true&theme=dracula)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=arayreth&show_icons=true&theme=dracula)
 <!--Languages and Tools-->
 <h3 align="left">💻 Languages and Tools: </h3>
 <!--Discord js-->
