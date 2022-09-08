@@ -5,11 +5,9 @@
 <p align="left">
 Actualy :
 </p>
- - 📚 I currently learning: Python and MongoDB
- - 🚧 I currently working on: A discord bot for my project
- - 📬 How to Reach Me ?
- - Discord: Rayreth#1584
- - Mail: contactrayreth@gmail.com
+<p aling="center">
+📚 I currently learning: Python and MongoDB <br>🚧 I currently working on: A discord bot for my project<br>📬 How to Reach Me ?<br>Discord: Rayreth#1584<br>Mail: contactrayreth@gmail.com
+ </p>
 <h3 align="left">📈 Top Languages: </h3>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arayreth&theme=dracula)
 <h3 align="left">📊 Github Stats: </h3>
