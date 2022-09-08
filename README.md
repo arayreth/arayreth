@@ -8,7 +8,7 @@
 <a href="https://code.visualstudio.com/<src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code"></a>&nbsp;&nbsp;
 
 <p align='center'>
-  <a href="https://code.visualstudio.com/><src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"</a>&nbsp;&nbsp;
+<a href="www.mysql.com><img height="24" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg"$></a>
 </p>
 
 learning mongodb and python
