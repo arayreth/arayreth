@@ -1,16 +1,15 @@
 ### Hey 👋, I'm [Rayreth](https://github.com/arayreth)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=E7F748&center=true&width=435&lines=Developper+javascript;Orange+juice+addict;Discord+power+user)](https://git.io/typing-svg)
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=E7F748&center=true&width=435&lines=Developper+javascript;Orange+juice+addict;Discord+power+user">
 </p>
 <p align="left">
 Actualy :
 </p>
- ###- 📚 I currently learning: Python and MongoDB
- ###- 🚧 I currently working on: A discord bot for my project
- ###- 📬 How to Reach Me ?
- ###- Discord: Rayreth#1584
- ###- Mail: contactrayreth@gmail.com
+ -📚 I currently learning: Python and MongoDB
+ -🚧 I currently working on: A discord bot for my project
+ -📬 How to Reach Me ?
+ -Discord: Rayreth#1584
+ -Mail: contactrayreth@gmail.com
 <h3 align="left">📈 Top Languages: </h3>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arayreth&theme=dracula)
 <h3 align="left">📊 Github Stats: </h3>
