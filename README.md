@@ -1,38 +1,25 @@
-<!--Introducing-->
 ### Hey 👋, I'm [Rayreth](https://github.com/arayreth)
-<!--Animated Text-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=E7F748&center=true&width=435&lines=Developper+javascript;Orange+juice+addict;Discord+power+user)](https://git.io/typing-svg)
-<!--Actualy-->
 Actualy :
-I currently learning:
+- I currently learning:
   - Python
   - MongoDB
-I currently working on:
+- I currently working on:
  - A discord bot for my project
-<!--Top Languages-->
 <h3 align="left">📈 Top Languages: </h3>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arayreth&theme=dracula)
-<!--Gitub Stats-->
 <h3 align="left">📊 Github Stats: </h3>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=arayreth&show_icons=true&theme=dracula)
-<!--Languages and Tools-->
 <h3 align="left">💻 Languages and Tools: </h3>
-<!--Discord js-->
 <a href="https://discord.js.org/#/" > <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" target="_blank" rel="noreferrer" alt="Discord js" width="40" height="40"/>
-<!--JavaScript-->
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" > <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" target="_blank" rel="noreferrer" alt="javaScript" width="40" height="40"/>
-<!--My SQL-->
 <a href="www.mysql.com" > <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" target="_blank" rel="noreferrer" alt="My SQL" width="40" height="40"/>
-<!--Visual Studio Code-->
 <a href="https://code.visualstudio.com/" > <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" target="_blank" rel="noreferrer" alt="Visual Studio Code" width="40" height="40"/>
-<!--XAMPP-->
 <a href="https://www.apachefriends.org/index.html" > <img src="https://github.com/cm3z4/xampp.desktop/blob/master/xampp.png" target="_blank" rel="noreferrer" alt="XAMPP" width="40" height="40"/>
-<!--Reach Me-->
 ### How to Reach Me ?
 📫 How to reach me:
 - Discord: Rayreth#1584
 - Mail: contactrayreth@gmail.com
-<!--Final Word-->
 <div align="center">
 ### Thanks you for reading ❤️ !
 </div>
