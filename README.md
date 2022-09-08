@@ -10,8 +10,11 @@ Actualy :
  </p>
 <h3 align="left">📈 Top Languages: </h3>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arayreth&theme=dracula)
-<h3 align="left">📊 Github Stats: </h3>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=arayreth&show_icons=true&theme=dracula)
+
+<h3>📊 Github Stats: </h3>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arayreth&show_icons=true&theme=dracula"/>
+</a>
 <h3 align="left">💻 Languages and Tools: </h3>
 <a href="https://discord.js.org/#/" > <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" target="_blank" rel="noreferrer" alt="Discord js" width="40" height="40"/>
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" > <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" target="_blank" rel="noreferrer" alt="javaScript" width="40" height="40"/>
