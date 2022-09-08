@@ -5,7 +5,7 @@
 - 📫 &nbsp; How to reach me: contactrayreth@gmail.com.
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=arayreth.arayreth&style=flat-square&color=0088cc)
-<a href="www.mysql.com><img height="24" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg"></a>
+<<a href="https://www.apachefriends.org/index.html" > <img src="https://github.com/cm3z4/xampp.desktop/blob/master/xampp.png" alt="XAMPP" width="40" height="40"/>
 
 <p align='center'>
 <a href="www.mysql.com><img height="24" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg"$></a>
