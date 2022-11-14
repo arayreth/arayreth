@@ -21,6 +21,8 @@ Actualy :
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" > <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" target="_blank" rel="noreferrer" alt="javaScript" width="40" height="40"/>
 <a href="https://discord.js.org/#/" > <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" target="_blank" rel="noreferrer" alt="Discord js" width="40" height="40"/>
 <a href="www.mysql.com" > <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" target="_blank" rel="noreferrer" alt="My SQL" width="40" height="40"/>
+<a href="https://fr.wikibooks.org/wiki/Programmation_Bash/Notions_essentielles_du_shell_bash" > <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" target="_blank" rel="noreferrer" alt="bash" width="40" height="40"/>
+<a href="https://academy.hackthebox.com/module/18/section/94" > <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" target="_blank" rel="noreferrer" alt="linux" width="40" height="40"/>
 <a href="wwww.nodejs.org"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" target="_blank" rel="noreferrer" alt="Node js" width="40" height="40"/>
 <a href="www.npmjs.com"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" target="_blank" rel="noreferrer" alt="NPM" width="40" height="40"/>
 <a href="https://code.visualstudio.com/" > <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" target="_blank" rel="noreferrer" alt="Visual Studio Code" width="40" height="40"/>
