@@ -18,9 +18,11 @@ Actualy :
 </a>
 <div class="tool">
 <h3 align="left">💻 Languages and Tools: </h3>
-<a href="https://discord.js.org/#/" > <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" target="_blank" rel="noreferrer" alt="Discord js" width="40" height="40"/>
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" > <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" target="_blank" rel="noreferrer" alt="javaScript" width="40" height="40"/>
+<a href="https://discord.js.org/#/" > <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" target="_blank" rel="noreferrer" alt="Discord js" width="40" height="40"/>
 <a href="www.mysql.com" > <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" target="_blank" rel="noreferrer" alt="My SQL" width="40" height="40"/>
+<a href="wwww.nodejs.org"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" target="_blank" rel="noreferrer" alt="Node js" width="40" height="40"/>
+<a href="www.npmjs.com"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" target="_blank" rel="noreferrer" alt="NPM" width="40" height="40"/>
 <a href="https://code.visualstudio.com/" > <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" target="_blank" rel="noreferrer" alt="Visual Studio Code" width="40" height="40"/>
 <a href="www.azure.com" > <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" target="_blank" rel="noreferrer" alt="Microsoft Azure" width="40" height="40"/>
 <a href="https://www.apachefriends.org/index.html" > <img src="https://github.com/cm3z4/xampp.desktop/blob/master/xampp.png" target="_blank" rel="noreferrer" alt="XAMPP" width="40" height="40"/>
