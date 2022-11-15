@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=E7F748&center=true&width=435&lines=Developper+javascript;Orange+juice+addict;Discord+power+user">
 </p>
 <p align="left">
-Actually :
+Currently:
 </p>
 <p aling="center">
 📚 I'm currently learning: Python and MongoDB <br>🚧 I'm currently working on: A discord bot for my project</br>
