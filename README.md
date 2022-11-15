@@ -8,7 +8,7 @@ Actualy :
 <p aling="center">
 📚 I currently learning: Python and MongoDB <br>🚧 I currently working on: A discord bot for my project</br>
  </p>
-### 📬 How to Reach Me ?
+<h3 align="left">📬 How to Reach Me ?</h3>
 [Discord](https://discord.com/users/477869784932024321)
 [Mail](contactrayreth@gmail.com)
 <h3 align="left">📈 Top Languages: </h3>
