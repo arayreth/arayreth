@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Rayreth](https://github.com/arayreth)
+### Hey 👋, I'm [Rayreth](https://discord.com/users/477869784932024321)
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=E7F748&center=true&width=435&lines=Developper+javascript;Orange+juice+addict;Discord+power+user">
 </p>
