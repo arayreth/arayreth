@@ -3,10 +3,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=E7F748&center=true&width=435&lines=Developper+javascript;Orange+juice+addict;Discord+power+user">
 </p>
 <p align="left">
-Actualy :
+Actually :
 </p>
 <p aling="center">
-📚 I currently learning: Python and MongoDB <br>🚧 I currently working on: A discord bot for my project</br>
+📚 I'm currently learning: Python and MongoDB <br>🚧 I'm currently working on: A discord bot for my project</br>
  </p>
 <h3 align="left">📬 How to Reach Me ?</h3>
 <a href="https://discord.com/users/477869784932024321">Discord</a>
@@ -39,5 +39,5 @@ Actualy :
 </a>
 </div>
 <div class="thank">
-<p align="center">Thanks you for reading ❤️ !</p>
+<p align="center">Thank you for reading ❤️ !</p>
 </div>
