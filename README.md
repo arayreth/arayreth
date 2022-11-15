@@ -10,7 +10,7 @@ Actualy :
  </p>
 <h3 align="left">📬 How to Reach Me ?</h3>
 <a href="https://discord.com/users/477869784932024321">Discord</a>
-<a href="contactrayreth@gmail.com">Mail</a>
+<br><a href="contactrayreth@gmail.com">Mail</a>
 <h3 align="left">📈 Top Languages: </h3>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arayreth&theme=dracula"/>
