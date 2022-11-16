@@ -33,6 +33,7 @@ Currently:
 <a href="wwww.nodejs.org"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" target="_blank" rel="noreferrer" alt="Node js" width="40" height="40"/>
 <a href="www.npmjs.com"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" target="_blank" rel="noreferrer" alt="NPM" width="40" height="40"/> 
 <a href="https://code.visualstudio.com/" > <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" target="_blank" rel="noreferrer" alt="Visual Studio Code" width="40" height="40"/>
+<a href="https://visualstudio.microsoft.com/" > <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" target="_blank" rel="noreferrer" alt="Visual Studio Code" width="40" height="40"/>
 <a href="www.azure.com" > <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" target="_blank" rel="noreferrer" alt="Microsoft Azure" width="40" height="40"/>
 <a href="https://www.apachefriends.org/index.html" > <img src="https://github.com/cm3z4/xampp.desktop/blob/master/xampp.png" target="_blank" rel="noreferrer" alt="XAMPP" width="40" height="40"/>
 <a href="www.filezilla-project.org" > <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" target="_blank" rel="noreferrer" alt="filezilla" width="40" height="40"/>
