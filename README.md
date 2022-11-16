@@ -29,15 +29,16 @@ Currently:
 <a href="https://fr.wikibooks.org/wiki/Programmation_Bash/Notions_essentielles_du_shell_bash" > <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" target="_blank" rel="noreferrer" alt="bash" width="40" height="40"/>
 <a href="https://academy.hackthebox.com/module/18/section/94" > <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" target="_blank" rel="noreferrer" alt="linux" width="40" height="40"/>
 <a href="https://git-scm.com/" > <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" target="_blank" rel="noreferrer" alt="git" width="40" height="40"/>
-<a href="https://github.com/" > <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" target="_blank" rel="noreferrer" alt="git" width="40" height="40"/>
+<a href="https://github.com/" > <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" target="_blank" rel="noreferrer" alt="github" width="40" height="40"/>
 <a href="wwww.nodejs.org"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" target="_blank" rel="noreferrer" alt="Node js" width="40" height="40"/>
 <a href="www.npmjs.com"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" target="_blank" rel="noreferrer" alt="NPM" width="40" height="40"/> 
 <a href="https://code.visualstudio.com/" > <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" target="_blank" rel="noreferrer" alt="Visual Studio Code" width="40" height="40"/>
-<a href="https://visualstudio.microsoft.com/" > <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" target="_blank" rel="noreferrer" alt="Visual Studio Code" width="40" height="40"/>
+<a href="https://visualstudio.microsoft.com/" > <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" target="_blank" rel="noreferrer" alt="Visual Studio" width="40" height="40"/>
 <a href="www.azure.com" > <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" target="_blank" rel="noreferrer" alt="Microsoft Azure" width="40" height="40"/>
+<a href="https://www.putty.org/" > <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-plain.svg" target="_blank" rel="noreferrer" alt="Putty" width="40" height="40"/>
 <a href="https://www.apachefriends.org/index.html" > <img src="https://github.com/cm3z4/xampp.desktop/blob/master/xampp.png" target="_blank" rel="noreferrer" alt="XAMPP" width="40" height="40"/>
 <a href="www.filezilla-project.org" > <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" target="_blank" rel="noreferrer" alt="filezilla" width="40" height="40"/>
-<a href="https://www.adobe.com/products/photoshop.html" > <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" target="_blank" rel="noreferrer" alt="filezilla" width="40" height="40"/>
+<a href="https://www.adobe.com/products/photoshop.html" > <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" target="_blank" rel="noreferrer" alt="Photoshop" width="40" height="40"/>
 <a href="https://www.adobe.com/products/illustrator.html" > <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" target="_blank" rel="noreferrer" alt="adobe illustrator" width="40" height="40"/>
 </a>
 </div>
