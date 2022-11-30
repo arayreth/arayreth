@@ -23,6 +23,7 @@ Currently:
 <h3 align="left">💻 Languages and Tools: </h3>
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" > <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" target="_blank" rel="noreferrer" alt="javaScript" width="40" height="40"/>
 <a href="https://www.python.org/" > <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" target="_blank" rel="noreferrer" alt="python" width="40" height="40"/>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" > <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" target="_blank" rel="noreferrer" alt="csharp" width="40" height="40"/>
 <a href="https://developer.mozilla.org/fr/docs/Glossary/HTML5" > <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" target="_blank" rel="noreferrer" alt="html5" width="40" height="40"/>
  <a href="https://developer.mozilla.org/fr/docs/Web/CSS" > <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" target="_blank" rel="noreferrer" alt="css3" width="40" height="40"/>
 <a href="https://discord.js.org/#/" > <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" target="_blank" rel="noreferrer" alt="Discord js" width="40" height="40"/>
