@@ -6,7 +6,7 @@
 Currently:
 </p>
 <p aling="center">
-📚 I'm currently learning: Python and MongoDB <br>🚧 I'm currently working on: A discord bot for my project</br>
+📚 I'm currently learning: MongoDB <br>🚧 I'm currently working on: A discord bot for my project</br>
  </p>
 <h3 align="left">📬 How to Reach Me ?</h3>
 <a href="https://discord.com/users/477869784932024321">Discord</a>
@@ -22,6 +22,7 @@ Currently:
 <div class="tool">
 <h3 align="left">💻 Languages and Tools: </h3>
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" > <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" target="_blank" rel="noreferrer" alt="javaScript" width="40" height="40"/>
+<a href="https://www.python.org/" > <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" target="_blank" rel="noreferrer" alt="python" width="40" height="40"/>
 <a href="https://developer.mozilla.org/fr/docs/Glossary/HTML5" > <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" target="_blank" rel="noreferrer" alt="html5" width="40" height="40"/>
  <a href="https://developer.mozilla.org/fr/docs/Web/CSS" > <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" target="_blank" rel="noreferrer" alt="css3" width="40" height="40"/>
 <a href="https://discord.js.org/#/" > <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" target="_blank" rel="noreferrer" alt="Discord js" width="40" height="40"/>
