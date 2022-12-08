@@ -6,7 +6,7 @@
 Currently:
 </p>
 <p aling="center">
-📚 I'm currently learning: MongoDB <br>🚧 I'm currently working on: A discord bot for my project</br>
+📚 I'm currently learning: MongoDB <br>🚧 I'm currently working on: A discord bot for my project and a management software for professional high school equipment</br>
  </p>
 <h3 align="left">📬 How to Reach Me ?</h3>
 <a href="https://discord.com/users/477869784932024321">Discord</a>
