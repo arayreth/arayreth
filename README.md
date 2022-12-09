@@ -1,6 +1,6 @@
 ### Hey 👋, I'm [Rayreth](https://discord.com/users/477869784932024321)
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&color=E7F748&center=true&width=435&lines=Developper+javascript;Hot+chocolate+addict;Discord+power+user%22">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&color=E7F748&center=true&width=435&lines=Developper+javascript;Hot+chocolate+addict;Discord+power+user">
 </p>
 <p align="left">
 Currently:
