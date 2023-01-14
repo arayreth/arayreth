@@ -13,11 +13,11 @@ Currently:
 <br><a href="mailto:contactrayreth@gmail.com">Mail</a>
 <h3 align="left">📈 Top Languages: </h3>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arayreth&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arayreth&theme=dracula"/>
 </a>
 <h3>📊 Github Stats: </h3>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arayreth&show_icons=true&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arayreth&show_icons=true&theme=dracula"/>
 </a>
 <div class="tool">
 <h3 align="left">💻 Languages and Tools: </h3>
