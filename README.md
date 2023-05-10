@@ -30,7 +30,7 @@
 </a>
 <div class="organization">
 <h3 align="left">🏢 Organization </h3>
-<p>I work on the <a href="https://github.com/darkmash-org">DarkMash</a> and <a href="https://github.com/Discord-features">Discord Features</a> organization ! </p> @Discord-features
+<p>I work on the <a href="https://github.com/darkmash-org">DarkMash</a> and <a href="https://github.com/Discord-features">Discord Features</a> organization ! </p>
 </div>  
 <div class="tool">
 <h3 align="left">💻 Languages and Tools: </h3>
