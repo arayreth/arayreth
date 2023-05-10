@@ -10,7 +10,7 @@ Currently:
   <ul>
   <li>Mongo DB<li>
   <li>Cyber security<li>
-  <li>Artificial intelligence<li>  
+  <li>Artificial intelligence<li>
   </ul>  
   <br>🚧 I'm currently working on: 
   <ul>
