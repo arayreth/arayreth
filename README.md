@@ -7,10 +7,12 @@ Currently:
 </p>
 <p aling="center">
 📚 I'm currently learning: MongoDB <br>🚧 I'm currently working on: 
-* [Launch panel](https://github.com/arayreth/launch-panel)
-* [Manage my workshop](https://github.com/arayreth/Manage-my-workshop)
-* [Python projects](https://github.com/arayreth/python-projects)
-* [Daily info](https://github.com/arayreth/daily-info)
+  <ul>
+  <li><a href="https://github.com/arayreth/launch-panel">Launch panel</a></li>
+  <li><a href="https://github.com/arayreth/Manage-my-workshop">Manage my workshop</a></li>
+  <li><a href="https://github.com/arayreth/python-projects">Python projects</a></li>
+  <li><a href="https://github.com/arayreth/daily-info">Daily info</a></li>
+  </ul>
 </p>
 <h3 align="left">📬 How to Reach Me ?</h3>
 <a href="https://discord.com/users/477869784932024321">Discord</a>
