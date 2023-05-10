@@ -6,7 +6,13 @@
 Currently:
 </p>
 <p aling="center">
-📚 I'm currently learning: MongoDB <br>🚧 I'm currently working on: 
+📚 I'm currently learning: 
+  <ul>
+  <li>Mongo DB<li>
+  <li>Cyber security<li>
+  <li>Artificial intelligence<li>  
+  <ul>  
+  <br>🚧 I'm currently working on: 
   <ul>
   <li><a href="https://github.com/arayreth/launch-panel">Launch panel</a></li>
   <li><a href="https://github.com/arayreth/Manage-my-workshop">Manage my workshop</a></li>
