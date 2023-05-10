@@ -28,6 +28,10 @@
 <a>
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arayreth&show_icons=true&theme=dracula"/>
 </a>
+<div class="organization">
+<h3 align="left">🏢 organization </h3>
+<p>I work on the <a href="https://github.com/darkmash-org">DarkMash</a> and <a href="https://github.com/Discord-features">Discord Features</a> organization ! </p> 
+</div>  
 <div class="tool">
 <h3 align="left">💻 Languages and Tools: </h3>
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" > <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" target="_blank" rel="noreferrer" alt="javaScript" width="40" height="40"/>
