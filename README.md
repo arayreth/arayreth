@@ -55,5 +55,5 @@
 </div>
 <div class="thank">
 <br>
-<p align="center">Thank you for reading ❤️ !</p>
+<p align="center">Thank you for reading 💖 !</p>
 </div>
