@@ -6,8 +6,12 @@
 Currently:
 </p>
 <p aling="center">
-📚 I'm currently learning: MongoDB <br>🚧 I'm currently working on: A discord bot for my project and a management software for professional high school equipment</br>
- </p>
+📚 I'm currently learning: MongoDB <br>🚧 I'm currently working on: 
+* [Launch panel](https://github.com/arayreth/launch-panel)
+* [Manage my workshop](https://github.com/arayreth/Manage-my-workshop)
+* [Python projects](https://github.com/arayreth/python-projects)
+* [Daily info](https://github.com/arayreth/daily-info)
+</p>
 <h3 align="left">📬 How to Reach Me ?</h3>
 <a href="https://discord.com/users/477869784932024321">Discord</a>
 <br><a href="mailto:contactrayreth@gmail.com">Mail</a>
