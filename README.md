@@ -59,7 +59,7 @@
 </div>
 <div class="discord">
 <h3 align="left">📨 Discord</h3>
-  ![status](https://api.statusbadges.me/badge/status/477869784932024321) ![playing](https://api.statusbadges.me/badge/playing/477869784932024321) ![vscode](https://api.statusbadges.me/badge/vscode/477869784932024321)
+ <img src="https://api.statusbadges.me/badge/status/477869784932024321" alt="status"> <img src="https://api.statusbadges.me/badge/playing/477869784932024321" alt="playing"> <img src="https://api.statusbadges.me/badge/vscode/477869784932024321" alt="vscode">
 </div>
 <div class="thank">
 <br>
