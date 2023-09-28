@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Rayreth](https://rayreth.me/)
+### Hey 👋, I'm [Rayreth](https://arayreth.github.io)
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&color=E7F748&center=true&width=435&lines=Developper+javascript;Hot+chocolate+addict;Discord+power+user">
 </p>
