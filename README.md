@@ -2,24 +2,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&color=E7F748&center=true&width=435&lines=Developper+javascript;Hot+chocolate+addict;Discord+power+user">
 </p>
-<p aling="center">
-📚 I'm currently learning: 
-  <ul>
-  <li>Mongo DB</li>
-  <li>Cyber-security</li>
-  <li>Artificial intelligence</li>
-  </ul>
-🚧 I'm currently working on: 
-  <ul>
-  <li><a href="https://github.com/arayreth/arayreth.github.io">My portfolio</a></li>
-  <li><a href="https://github.com/arayreth/Manage-my-workshop">Manage my workshop</a></li>
-  <li><a href="https://github.com/arayreth/rayreth-bot">Rayreth bot</a></li>
-  </ul>
-</p>
-<div class="organization">
-<h3 align="left">🏢 Organizations </h3>
-<p>I work on the <a href="https://github.com/darkmash-org">DarkMash</a> organization ! </p>
-</div>  
 <h3 align="left">📬 How to Reach Me ?</h3>
 <a href="https://discord.com/users/477869784932024321">Discord</a>
 <br><a href="mailto:contactrayreth@gmail.com">Mail</a>
