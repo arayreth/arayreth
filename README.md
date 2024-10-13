@@ -1,6 +1,6 @@
 ### Hey 👋, I'm [Rayreth](https://arayreth.github.io)
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&color=E7F748&center=true&width=435&lines=Developper+javascript;Hot+chocolate+addict;Discord+power+user">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&color=E7F748&center=true&width=435&lines=Hot+chocolate+addict;Discord+power+user">
 </p>
 <h3 align="left">📬 How to Reach Me ?</h3>
 <a href="https://discord.com/users/477869784932024321">Discord</a>
